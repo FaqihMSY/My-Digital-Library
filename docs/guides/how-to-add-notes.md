@@ -14,7 +14,7 @@ For example, if you want to add a note about `JavaScript`, you could create a fi
 
 ## 2. Write Your Content
 
-Open the new `.md` file and write your notes using Markdown syntax. You can refer to the [Markdown Syntax Guide](/markdown-examples.html) for help.
+Open the new `.md` file and write your notes using Markdown syntax. You can refer to the [Markdown Syntax Guide](/guides/markdown-examples) for help.
 
 ## 3. Add Your Note to the Sidebar
 
