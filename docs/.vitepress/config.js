@@ -11,14 +11,15 @@ export default {
     sidebar: [
       {
         text: 'Panduan',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'Cara Menambah Catatan', link: '/guides/how-to-add-notes' },
+          { text: 'Syntax Guide', link: '/guides/markdown-examples' }
         ]
       },
       {
         text: 'Git & Version Control',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'Introduction', link: '/git/introduction' },
           {
@@ -32,17 +33,25 @@ export default {
       },
       {
         text: 'Web Concepts',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'HTTP Requests', link: '/web-concepts/http-requests' },
           { text: 'APIs', link: '/web-concepts/apis' }
         ]
       },
       {
-        text: 'Markdown',
+        text: 'System Database',
         collapsed: false,
-        items: [
-          { text: 'Syntax Guide', link: '/markdown-examples' }
+        items:[
+          {text :'Introduction to Database System', link: '/system-database/introduction'},
+          {text :'Perfomance Tuning', link: '/system-database/perfomance-tuning'},
+          {text :'Storage and File Structure', link: '/system-database/storage-and-file'},
+          {text :'Indexing', link: '/system-database/indexing'},
+          {text :'Schema and Index Tuning', link: '/system-database/schema-index-tuning'},
+          {text :'Query Processing', link: '/system-database/query-processing'},
+          {text :'Query Optimization', link: '/system-database/query-optimization'},
+          {text :'Performance Tuning', link: '/system-database/performance-tuning'},
+          {text :'Transaction', link: '/system-database/transaction'},
         ]
       }
     ]
