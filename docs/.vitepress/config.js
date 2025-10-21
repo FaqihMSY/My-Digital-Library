@@ -74,10 +74,11 @@ export default {
             link: "/system-database/query-optimization",
           },
           {
-            text: "Performance Tuning",
-            link: "/system-database/performance-tuning",
+            text: "SQL Performance Tuning",
+            link: "/system-database/sql-performance-tuning",
           },
           { text: "Transaction", link: "/system-database/transaction" },
+          { text: "Latihan 1 UTS", link: "/system-database/latihan-uts1" },
         ],
       },
     ],
