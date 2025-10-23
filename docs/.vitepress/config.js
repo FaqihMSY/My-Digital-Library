@@ -78,6 +78,10 @@ export default {
             link: "/system-database/sql-performance-tuning",
           },
           { text: "Transaction", link: "/system-database/transaction" },
+          {
+            text: "Database Security",
+            link: "/system-database/database-security",
+          },
           { text: "Latihan 1 UTS", link: "/system-database/latihan-uts1" },
         ],
       },
