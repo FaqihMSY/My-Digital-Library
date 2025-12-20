@@ -1,8 +1,8 @@
 # Latihan Soal: Framework & Library dalam Web Development
 
-# FYI : multichoice yak
+###### FYI : multichoice yak
 
-# WARN : Sebagian latihan soal ini dibikin menggunakan ai
+###### WARN : Sebagian latihan soal ini dibikin menggunakan ai
 
 ## Bagian 1: Konsep Dasar & jQuery
 
