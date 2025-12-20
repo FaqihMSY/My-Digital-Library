@@ -46,7 +46,7 @@ export default {
       },
       {
         text: "System Database",
-        collapsed: false,
+        collapsed: true,
         items: [
           {
             text: "Introduction to Database System",
@@ -83,6 +83,56 @@ export default {
             link: "/system-database/database-security",
           },
           { text: "Latihan 1 UTS", link: "/system-database/latihan-uts1" },
+        ],
+      },
+      {
+        text: "Web-Based Development",
+        collapsed: true,
+        items: [
+          {
+            text: "Client-side Libraries and Frameworks",
+            link: "/WBD/framework"
+          },
+          {
+            text: "Laravel",
+            link: "/WBD/laravel"
+          },
+          {
+            text: "Cloud Computing",
+            link: "/WBD/cloud-computing"
+          },
+          {
+            text: "Microservices",
+            link: "/WBD/microservices"
+          },
+          {
+            text: "Performance Engineering",
+            link: "/WBD/perfomance-eng"
+          },
+          {
+            text: "Full Stack Testing",
+            link: "/WBD/fullstack"
+          },
+          {
+            text: "Web Security and Privacy",
+            link: "/WBD/security-privacy"
+          },
+          {
+            text: "Usability Test and Monitoring",
+            link: "/WBD/usability-monitoring"
+          },
+          {
+            text: "Web 3.0",
+            link: "/WBD/web3"
+          },
+          {
+            text: "Web Assembly",
+            link: "/WBD/assambly"
+          },
+          {
+            text: "SEO",
+            link: "/WBD/seo"
+          },
         ],
       },
     ],
