@@ -145,3 +145,21 @@
 
 ## Glossarium
 - **ACID**: Atomicity, Consistency, Isolation, Durability.
+
+# Latihan Soal: Konsep Dasar, jQuery, & ReactJS
+
+## Bagian 1: Konsep Dasar & jQuery
+
+**1. Berdasarkan definisi di slide, manakah pernyataan yang BENAR mengenai perbedaan Framework dan Library?**
+A. Framework menyediakan struktur "bagaimana" kode harus dipresentasikan.
+B. Library adalah kumpulan fungsi yang mengabstraksi layer berbeda seperti DOM models.
+C. Library memaksa penggunaan pola code-template tertentu.
+D. Framework biasanya menyederhanakan pengalaman coding dengan menyediakan constructor dan helpers.
+E. jQuery adalah contoh Framework, sedangkan Angular adalah Library.
+
+::: details Lihat Jawaban & Pembahasan
+**Kunci Jawaban: A, B, D**
+
+**Penjelasan:**
+Opsi C salah karena itu sifat Framework. Opsi E terbalik; slide secara eksplisit menyebut jQuery sebagai Library dan Angular sebagai Framework.
+:::
